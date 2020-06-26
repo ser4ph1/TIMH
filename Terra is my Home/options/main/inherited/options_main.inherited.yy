@@ -1,10 +1,10 @@
 1.0.0←ed6a955d-5826-4f98-a450-10b414266c27←ed6a955d-5826-4f98-a450-10b414266c27|{
     "option_window_colour": {
-        "Value": 4278190080
+        "Value": 4284890429
     },
     "option_gameguid": "71a072c3-9e07-4745-8b83-8b71ab5a1a09",
     "option_game_speed": 60,
-    "option_lastchanged": "01 January 1601 0:00:00",
+    "option_lastchanged": "26 June 2020 20:04:02",
     "option_author": "Jonas Wong",
     "option_sci_usesci": true
 }←1225f6b0-ac20-43bd-a82e-be73fa0b6f4f|{
