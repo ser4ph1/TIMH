@@ -4,5 +4,5 @@
     "mvc": "1.0",
     "name": "gen_instance_map",
     "IsCompatibility": false,
-    "IsDnD": true
+    "IsDnD": false
 }

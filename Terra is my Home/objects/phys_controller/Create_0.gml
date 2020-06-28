@@ -42,7 +42,7 @@ ds_map_add(phys_control_map, "flight_phys", flight_phys);
 
 //phys control state is set by string index, I NEED a way of securely determining what an item
 //or entities physical movement state is indexed to.
-self.phys_control_state_map_index = "foot_phys"
+self.phys_control_state_map_index = "foot_phys";
 self.phys_control_state = ds_map_find_value(phys_control_map, phys_control_state_map_index);
 
 
@@ -74,6 +74,6 @@ self.desired_point_angle = 0;
 // 2 = flying
 // -1 = restrained
 // -2 = unconscious
-self.control_state = 0
+self.control_state = 0;
 
-self.layer_transition_slowdown = 0
+self.layer_transition_slowdown = 0;

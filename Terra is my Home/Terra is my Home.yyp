@@ -135,11 +135,27 @@
             }
         },
         {
+            "Key": "4caae16b-c306-484b-b756-f6061ba15102",
+            "Value": {
+                "id": "e3fb1fc8-483a-4310-9731-9a7d22935b02",
+                "resourcePath": "shaders\\z_entity_above_shader\\z_entity_above_shader.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "5425f4ee-c580-48bb-9c9d-9294512b01ce",
             "Value": {
                 "id": "a0b3a768-4bad-45b4-84ea-84b091ed586f",
                 "resourcePath": "views\\5425f4ee-c580-48bb-9c9d-9294512b01ce.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5c2ad392-1b38-4f78-a320-25a71975b787",
+            "Value": {
+                "id": "f11a86cb-289b-4273-a207-b9a212c04587",
+                "resourcePath": "shaders\\z_above_shader\\z_above_shader.yy",
+                "resourceType": "GMShader"
             }
         },
         {
@@ -156,6 +172,14 @@
                 "id": "b1ad76b1-ecd4-4b99-a95b-1e248f51971d",
                 "resourcePath": "views\\6ef02195-5213-414a-a109-830e27750c43.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "747feb93-18c9-4486-9a1e-9caab60d60c4",
+            "Value": {
+                "id": "280c4e21-78d6-4513-a322-e17c7b6d386b",
+                "resourcePath": "shaders\\z_below_shader\\z_below_shader.yy",
+                "resourceType": "GMShader"
             }
         },
         {
